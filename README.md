@@ -19,15 +19,15 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="[https://github.com/YOUR_USERNAME](https://github.com/indiv-it)">
+<a href="https://github.com/indiv-it">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="[https://yourwebsite.com](https://portfolio-indiv.netlify.app/)">
+<a href="https://portfolio-indiv.netlify.app/">
 <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="[https://linkedin.com](https://www.tiktok.com/@indiv.th)">
+<a href="https://www.tiktok.com/@indiv.th">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -79,7 +79,7 @@
 
 🚀 Visit my website
 
-👉 [https://yourwebsite.com](https://portfolio-indiv.netlify.app/)
+👉 [https://website_Portfolio.com](https://portfolio-indiv.netlify.app/)
 
 ---
 
