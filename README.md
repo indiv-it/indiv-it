@@ -28,7 +28,7 @@
 </a>
 
 <a href="https://www.tiktok.com/@indiv.th">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/Tiktok-000000?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
