@@ -39,17 +39,18 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=js,react,typescript,tailwind,sqlite%22" />
 
 </p>
 
 | Skill | Level |
 |------|------|
-| HTML | ⭐⭐⭐⭐⭐ |
-| CSS | ⭐⭐⭐⭐⭐ |
 | JavaScript | ⭐⭐⭐⭐ |
 | React | ⭐⭐⭐⭐ |
+| TyptScript | ⭐⭐⭐⭐ |
 | TailwindCSS | ⭐⭐⭐⭐ |
+| React Native | ⭐⭐⭐⭐ |
+| SQLite | ⭐⭐ |
 
 ---
 
